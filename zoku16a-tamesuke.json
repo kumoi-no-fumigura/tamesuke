@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamesuke",
  "yomi": "ごんちゅうなごんためすけきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉後期",
+  "author": "冷泉為相",
+  "desc": "冷泉家の祖、藤原（冷泉）為相の家集で、「藤谷集」とも呼ばれる。嘉元百首・文保百首などの詠を中心に、鎌倉の武家歌人との交流を示す歌も多い。注記に歌数307首、うち勅撰集入集63首とある。"
+ },
  "editions": [
   {
    "pid": "936505",
